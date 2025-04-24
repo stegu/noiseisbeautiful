@@ -8,3 +8,5 @@ The PDF is formally published by my employer, Linköping University. Please give
 ISBN 978-91-8118-158-6 (PDF)
 
 [https://doi.org/10.3384/9789181181586](https://doi.org/10.3384/9789181181586)
+
+(As of April 24, 2025, those links are not yet active, but they will be soon.)
