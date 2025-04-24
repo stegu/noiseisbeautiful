@@ -11,4 +11,4 @@ ISBN 978-91-8118-158-6 (PDF)
 
 (As of April 24, 2025, those links are not yet active, but they will be soon.)
 
-I couldn't place a copy of the book on Github, because the file was too large, so here's a [Dropbox link](https://www.dropbox.com/scl/fi/b8rt7kxn8v4swaabiecyb/procedural_patterns.pdf?rlkey=7jqnigdyds7rkxo6w6e9452op&dl=0)
+I couldn't place a copy of the book on Github, because the file was too large, bu here's a [Dropbox link](https://www.dropbox.com/scl/fi/b8rt7kxn8v4swaabiecyb/procedural_patterns.pdf?rlkey=7jqnigdyds7rkxo6w6e9452op&dl=0).
