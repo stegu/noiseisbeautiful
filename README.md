@@ -7,7 +7,7 @@ Use the [Issues](https://github.com/stegu/noiseisbeautiful/issues) section to co
 
 The PDF is formally published by my employer, Linköping University. Please give them credit for allowing me to write this as part of my job, by linking to their repository when possible:
 
-[Linköping University Electronic Press](http://ep.liu.se)
+Linköping University Electronic Press
 
 ISBN 978-91-8118-158-6 (PDF)
 
