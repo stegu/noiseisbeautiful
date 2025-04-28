@@ -1,6 +1,6 @@
 # Noise is Beautiful
 
-Repository to publish my book on procedural textures. Open access, CC-BY-NC 4.0 licensed. I couldn't place a copy of the book on Github, because the file was too large, but here's a [Dropbox link](https://www.dropbox.com/scl/fi/b8rt7kxn8v4swaabiecyb/procedural_patterns.pdf?rlkey=7jqnigdyds7rkxo6w6e9452op&dl=0). 
+Repository to publish my book on procedural textures. Open access, CC-BY-NC 4.0 licensed. I couldn't place a copy of the book on Github, because the file was too large, but here's a [Dropbox link](https://www.dropbox.com/scl/fi/b8rt7kxn8v4swaabiecyb/noiseisbeautiful.pdf?rlkey=7jqnigdyds7rkxo6w6e9452op&dl=0). 
 
 Use the [Issues](https://github.com/stegu/noiseisbeautiful/issues) section to comment on the book.
 
