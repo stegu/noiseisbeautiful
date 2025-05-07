@@ -1,10 +1,13 @@
 # Noise is Beautiful
 
-Repository to publish my book on procedural textures. Open access, CC-BY-NC 4.0 licensed.
+Repository to announce, maintain and debug my book about procedural textures. Open access, [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licensed.
 
-The PDF is formally published by my employer, Linköping University. You can download and
-redistribute it (as long as you do it without charge), but please give them credit for allowing
+The PDF is formally published by my employer, Linköping University. You can download and redistribute it for free (as long as you do it without charge), but please give them credit for allowing
 me to write this as part of my job, by linking directly to the DOI address below when possible:
+
+Noise is Beautiful
+
+(c) Stefan Gustavson 2025, released under the terms of Creative Commons [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
 
 Linköping University Electronic Press
 
