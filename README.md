@@ -17,7 +17,7 @@ ISBN 978-91-8118-158-6 (PDF)
 
 (If that link is down for some reason, there's an alternative, less permanent link to a copy down below.)
 
-I'm very happy to see a surprisingly large interest in the book. For a narrow academic title such as this one, it's unusual to see thousands of downloads in the first month. Use the [Issues](https://github.com/stegu/noiseisbeautiful/issues) section to comment on the book.
+I'm happy to see the public response and people's interest in the book. The thousands of downloads in the first month were most likely AI scrapes that violate both clauses of the CC license terms (AI language models do not provide attribution and are generally created for profit), but there have been enough (seemingly) real downloads for me to be happy about it. Use the [Issues](https://github.com/stegu/noiseisbeautiful/issues) section to comment on the book.
 
 Please respect the license terms. I spent a lot of time writing and illustrating this, and I only ask you to give credit by not editing out my name and the license information from the text. Any non-commercial use is allowed by the license without any additional permission from me, including excerpts, modifications, translations and redistribution, as long as you state the source clearly and include the license information. If you wish to use the book in whole or in part for commercial purposes, contact me. I'm reasonable, but I don't want you to make money on my work without me getting at least some small share of it.
 
